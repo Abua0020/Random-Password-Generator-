@@ -8,7 +8,7 @@ The Random Password Generator is a simple Python application that helps you crea
    - Ensure you have Python installed on your machine.
    - Clone this repository using the following command:
      ```
-     git clone https://github.com/your-username/your-repo.git
+     git clone https://github.com/Abua0020/Abua0020-assignment4.git
      ```
    - Navigate to the project directory:
      ```
