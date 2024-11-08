@@ -23,5 +23,3 @@ The Random Password Generator is a simple Python application that helps you crea
 3. **GitHub Repository:**
    You can find the source code and contribute to the project on GitHub: https://github.com/Abua0020/Abua0020-assignment4.git
 
-4. **Docker Image:**
-      Unfortunetly I ran into issues when Itried creating an image for docker. I got to the last step and it started to build but wasnt able to properly finish. 
